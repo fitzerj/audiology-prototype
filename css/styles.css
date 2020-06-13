@@ -1,0 +1,42 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1, h2, h3 {
+    font-family: 'Roboto', sans-serif;
+
+}
+
+h2, h3 {
+    color: #9A1D1D;
+}
+
+.jumbotron, footer {
+    background-color: #9A1D1D;
+    color: white;
+}
+
+.row {
+    padding: 0 30px;
+}
+
+.jumbotron {
+    min-height: 250px;
+    margin: 0;
+    padding: 30px;
+}
+
+#callToAction {
+    color: yellow;
+}
+
+.navbar li {
+    font-weight: bold;
+    margin: 0 30px;
+
+}
+
+.navbar {
+    border-bottom: 5px solid #9A1D1D;
+    background-color: white;
+}
